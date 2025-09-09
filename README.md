@@ -2,7 +2,12 @@
 
 # 🎨✨ Kwame Amankwah Afrifa ✨🎨
 
-### `Creative Technologist` • `Visual Storyteller` • `Digital Artist`
+### `Creative Technologist` • `Visual Storytell```
+
+🎨 Visual Storytelling
+🎯 Brand Identity Design
+🖼️ UI/UX Experiences
+📱 Mobile App Design
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Graphic+Designer+%7C+Fullstack+Developer;UI%2FUX+Designer+%7C+Student;Techpreneur+%7C+Community+Leader;Art+%2B+Technology+%3D+Innovation" alt="Typing SVG" />
 
@@ -105,10 +110,9 @@ _Code that speaks aesthetics_
 <td>
 
 ```
-� Visual Storytelling
+🎨 Visual Storytelling
 🎯 Brand Identity Design
 🖼️ UI/UX Experiences
-🎥 Motion Graphics
 📱 Mobile App Design
 ```
 
