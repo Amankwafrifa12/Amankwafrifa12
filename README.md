@@ -1,9 +1,10 @@
 <div align="center">
 
-# 👋 Hello, I'm Kwame Amankwa Afrifa
+# 👋 Hello, I'm Kwame Amankwah Afrifa
+
 ### Student | Fullstack Developer | Graphic Designer | UI/UX Designer | Techpreneur
 
-*"In large rivers one find big fish but one may also be drown"* - Iwaju Series
+_"In large rivers one find big fish but one may also be drown"_ - Iwaju Series
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theartgenie)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kwameamankwa.afrifa)
@@ -14,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a curious individual driven by the belief that *"The same curiosity that kills the cat is the mother of inventions."* Currently pursuing my Bachelor of Arts in Art Education at the University of Education, Winneba, while serving as **Co-Lead of Google Developer Groups on Campus, UEW**.
+I'm a curious individual driven by the belief that _"The same curiosity that kills the cat is the mother of inventions."_ Currently pursuing my Bachelor of Arts in Art Education at the University of Education, Winneba, while serving as **Co-Lead of Google Developer Groups on Campus, UEW**.
 
 My passion lies at the intersection of **technology**, **art**, and **education**, where I create digital solutions that make a meaningful impact.
 
@@ -29,16 +30,19 @@ My passion lies at the intersection of **technology**, **art**, and **education*
 ## 🛠️ Tech Stack
 
 ### Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend & Database
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Design & Creative Tools
+
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-2C5234?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -46,9 +50,11 @@ My passion lies at the intersection of **technology**, **art**, and **education*
 ## 🌟 Featured Projects
 
 ### 🎨 Artionary
+
 A revolutionary platform bridging the gap between art and technology.
 
 ### 🏠 RooMates
+
 An innovative solution for connecting compatible roommates.
 
 ## 🎯 Core Competencies
@@ -65,11 +71,13 @@ Time Management        ███████████████████
 ## 📚 Education & Certifications
 
 ### 🎓 Education
+
 - **Bachelor of Arts in Art Education** (In Progress) - University of Education, Winneba | Expected 2025
 - **Diploma in Art** - University of Education, Winneba | 2024
 - **WASSCE (Visual Arts)** - Kumasi Sports Academy SHS | 2021
 
 ### 🏆 Certifications
+
 - **Foundation in UX Design** - Google (Coursera, 2024)
 - **Introduction to Android Mobile Applications Development** - Meta (Coursera, 2024)
 - **Responsive Web Design** - Sololearn (2023)
@@ -101,7 +109,7 @@ I'm always excited to collaborate on projects that combine technology with creat
 
 ---
 
-*"Curiosity is the engine of creativity and innovation"* ✨
+_"Curiosity is the engine of creativity and innovation"_ ✨
 
 </div>
 <!--
@@ -117,4 +125,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
