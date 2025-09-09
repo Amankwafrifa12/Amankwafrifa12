@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🎨✨ Kwame Amankwa Afrifa ✨🎨
+# 🎨✨ Kwame Amankwah Afrifa ✨🎨
+
 ### `Creative Technologist` • `Visual Storyteller` • `Digital Artist`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Graphic+Designer+%7C+Fullstack+Developer;UI%2FUX+Designer+%7C+Student;Techpreneur+%7C+Community+Leader;Art+%2B+Technology+%3D+Innovation" alt="Typing SVG" />
@@ -43,16 +44,17 @@
 🚀 Building the future, one pixel at a time
 ```
 
-I'm a **curious soul** driven by the philosophy that *"The same curiosity that kills the cat is the mother of inventions."* 
+I'm a **curious soul** driven by the philosophy that _"The same curiosity that kills the cat is the mother of inventions."_
 
 Currently crafting my artistic vision while pursuing my **Bachelor of Arts in Art Education** at the University of Education, Winneba, and proudly serving as **Co-Lead of Google Developer Groups on Campus, UEW**.
 
 My universe exists at the **magical intersection** of:
-- 🎨 **Visual Arts** 
-- 💻 **Technology** 
+
+- 🎨 **Visual Arts**
+- 💻 **Technology**
 - 📚 **Education**
 
-Where I create digital experiences that don't just function — they *inspire*.
+Where I create digital experiences that don't just function — they _inspire_.
 
 <br clear="right"/>
 
@@ -67,13 +69,15 @@ Where I create digital experiences that don't just function — they *inspire*.
 <td align="center" width="50%">
 
 ### 🎨 **Creative Universe**
-*Bringing imagination to reality*
+
+_Bringing imagination to reality_
 
 </td>
 <td align="center" width="50%">
 
 ### 💻 **Digital Craftsmanship**
-*Code that speaks aesthetics*
+
+_Code that speaks aesthetics_
 
 </td>
 </tr>
@@ -82,7 +86,7 @@ Where I create digital experiences that don't just function — they *inspire*.
 
 ```
 � Visual Storytelling
-🎯 Brand Identity Design  
+🎯 Brand Identity Design
 🖼️ UI/UX Experiences
 🎥 Motion Graphics
 📱 Mobile App Design
@@ -107,7 +111,7 @@ Where I create digital experiences that don't just function — they *inspire*.
 
 ## 🎨 ⚡ My Creative Arsenal ⚡ 🎨
 
-*Where art meets code, magic happens*
+_Where art meets code, magic happens_
 
 </div>
 
@@ -116,6 +120,7 @@ Where I create digital experiences that don't just function — they *inspire*.
 <td valign="top" width="33%">
 
 ### 🌐 Frontend Artistry
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6B6B)
@@ -128,6 +133,7 @@ Where I create digital experiences that don't just function — they *inspire*.
 <td valign="top" width="33%">
 
 ### ⚙️ Backend Power
+
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=A8E6CF)
@@ -138,6 +144,7 @@ Where I create digital experiences that don't just function — they *inspire*.
 <td valign="top" width="33%">
 
 ### 🎨 Design Studio
+
 <div align="center">
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=FF9A8B)
@@ -163,7 +170,8 @@ Where I create digital experiences that don't just function — they *inspire*.
 <div align="center">
 
 ## 🌟 ✨ Portfolio Highlights ✨ 🌟
-*Digital masterpieces that blend creativity with functionality*
+
+_Digital masterpieces that blend creativity with functionality_
 
 </div>
 
@@ -172,7 +180,8 @@ Where I create digital experiences that don't just function — they *inspire*.
 <td align="center" width="33%">
 
 ### 🎨 **Artionary**
-*Mobile Art Dictionary*
+
+_Mobile Art Dictionary_
 
 ```ascii
    ╭─────────────╮
@@ -190,7 +199,8 @@ A **mobile art dictionary app** that provides comprehensive definitions, explana
 <td align="center" width="33%">
 
 ### 🏠 **RooMates**
-*Hostel Management Platform*
+
+_Hostel Management Platform_
 
 ```ascii
    ╭─────────────╮
@@ -208,7 +218,8 @@ A **hostel booking and management platform** that streamlines accommodation proc
 <td align="center" width="33%">
 
 ### 🗳️ **Artsoc Evotes**
-*Digital Democracy*
+
+_Digital Democracy_
 
 ```ascii
    ╭─────────────╮
@@ -287,7 +298,7 @@ Time Management        ███████████████████
 <tr>
 <td align="center">
 
-I'm always excited to collaborate on projects that combine **technology with creativity**, especially in the realms of **Art**, **EduTech**, and **Community Development**. 
+I'm always excited to collaborate on projects that combine **technology with creativity**, especially in the realms of **Art**, **EduTech**, and **Community Development**.
 
 Whether you're looking for a **creative developer**, a **design-thinking partner**, or someone passionate about making technology accessible through education, let's connect!
 
