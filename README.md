@@ -56,7 +56,7 @@ A mobile art dictionary app that provides comprehensive definitions, explanation
 
 ### 🏠 RooMates
 
-A hostel booking and management platform that streamlines accommodation processes for students and travelers.
+A hostel booking and management platform that streamlines accommodation processes for students and hostel owners.
 
 ### 🗳️ Artsoc Evotes
 
@@ -77,7 +77,7 @@ Time Management        ███████████████████
 
 ### 🎓 Education
 
-- **Bachelor of Arts in Art Education** (In Progress) - University of Education, Winneba | Expected 2025
+- **Bachelor of Arts in Art Education** (In Progress) - University of Education, Winneba | Expected 2027
 - **Diploma in Art** - University of Education, Winneba | 2024
 - **WASSCE (Visual Arts)** - Kumasi Sports Academy SHS | 2021
 
