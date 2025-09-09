@@ -2,7 +2,7 @@
 
 # 🎨✨ Kwame Amankwah Afrifa ✨🎨
 
-### `Creative Technologist` • `Visual Storytell```
+### `Creative Technologist` • `Visual Storyteller`
 
 🎨 Visual Storytelling
 🎯 Brand Identity Design
