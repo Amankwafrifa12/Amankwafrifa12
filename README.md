@@ -17,7 +17,10 @@
 _From Iwaju Series_
 
 </td>
-<td>
+
+</tr>
+<tr>
+<td align="center" width="100%">
 
 ```
 🌊 "In large rivers one find
@@ -29,7 +32,6 @@ _From Iwaju Series_
 ```
 
 </td>
-
 </tr>
 </table>
 
