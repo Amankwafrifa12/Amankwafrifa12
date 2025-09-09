@@ -1,66 +1,230 @@
 <div align="center">
 
-# 👋 Hello, I'm Kwame Amankwah Afrifa
+# 🎨✨ Kwame Amankwa Afrifa ✨🎨
+### `Creative Technologist` • `Visual Storyteller` • `Digital Artist`
 
-### Student | Fullstack Developer | Graphic Designer | UI/UX Designer | Techpreneur
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Graphic+Designer+%7C+Fullstack+Developer;UI%2FUX+Designer+%7C+Student;Techpreneur+%7C+Community+Leader;Art+%2B+Technology+%3D+Innovation" alt="Typing SVG" />
 
-_"In large rivers one find big fish but one may also be drown"_ - Iwaju Series
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theartgenie)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kwameamankwa.afrifa)
+```
+╭─────────────────────────────────────────────────────────────╮
+│  "In large rivers one find big fish but one may also       │
+│   be drown" - Iwaju Series                                 │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+<p>
+  <img src="https://img.shields.io/badge/🎨_Creative-Mind-FF6B6B?style=for-the-badge&labelColor=FFE66D" />
+  <img src="https://img.shields.io/badge/💻_Tech-Savvy-4ECDC4?style=for-the-badge&labelColor=45B7D1" />
+  <img src="https://img.shields.io/badge/🚀_Innovation-Driven-A8E6CF?style=for-the-badge&labelColor=95E1D3" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/theartgenie)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow_my_journey-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://www.facebook.com/kwameamankwa.afrifa)
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/colorful_hr.gif" width="100%" height="2px"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm a curious individual driven by the belief that _"The same curiosity that kills the cat is the mother of inventions."_ Currently pursuing my Bachelor of Arts in Art Education at the University of Education, Winneba, while serving as **Co-Lead of Google Developer Groups on Campus, UEW**.
+## 🌟 About Me 🌟
 
-My passion lies at the intersection of **technology**, **art**, and **education**, where I create digital solutions that make a meaningful impact.
+</div>
 
-## 💼 What I Do
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
-- 🎨 **Creative Design** - Bringing ideas to life through visual storytelling
-- 💻 **Full-Stack Development** - Building responsive web and mobile applications
-- 🎯 **UI/UX Design** - Crafting user-centered digital experiences
-- 📚 **Education Technology** - Developing solutions for the education sector
-- 🤝 **Community Leadership** - Leading tech communities and mentoring peers
+```ascii
+🎨 Artist by heart, Developer by choice
+💡 Where creativity meets functionality
+🚀 Building the future, one pixel at a time
+```
 
-## 🛠️ Tech Stack
+I'm a **curious soul** driven by the philosophy that *"The same curiosity that kills the cat is the mother of inventions."* 
 
-### Frontend Development
+Currently crafting my artistic vision while pursuing my **Bachelor of Arts in Art Education** at the University of Education, Winneba, and proudly serving as **Co-Lead of Google Developer Groups on Campus, UEW**.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+My universe exists at the **magical intersection** of:
+- 🎨 **Visual Arts** 
+- 💻 **Technology** 
+- 📚 **Education**
 
-### Backend & Database
+Where I create digital experiences that don't just function — they *inspire*.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<br clear="right"/>
 
-### Design & Creative Tools
+<div align="center">
 
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-2C5234?style=for-the-badge&logo=coreldraw&logoColor=white)
-![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+## 🎭 What I Create 🎭
 
-## 🌟 Featured Projects
+</div>
 
-### 🎨 Artionary
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-A mobile art dictionary app that provides comprehensive definitions, explanations, and visual references for art terms and concepts.
+### 🎨 **Creative Universe**
+*Bringing imagination to reality*
 
-### 🏠 RooMates
+</td>
+<td align="center" width="50%">
 
-A hostel booking and management platform that streamlines accommodation processes for students and hostel owners.
+### 💻 **Digital Craftsmanship**
+*Code that speaks aesthetics*
 
-### 🗳️ Artsoc Evotes
+</td>
+</tr>
+<tr>
+<td>
 
-An online voting system designed for the Art Society, UEW, enabling secure and efficient democratic processes for student elections.
+```
+� Visual Storytelling
+🎯 Brand Identity Design  
+🖼️ UI/UX Experiences
+🎥 Motion Graphics
+📱 Mobile App Design
+```
+
+</td>
+<td>
+
+```
+💻 Full-Stack Development
+📱 Mobile Applications
+🌐 Responsive Web Design
+⚡ Interactive Experiences
+🔧 Custom Solutions
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 🎨 ⚡ My Creative Arsenal ⚡ 🎨
+
+*Where art meets code, magic happens*
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🌐 Frontend Artistry
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6B6B)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=4ECDC4)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFE66D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=95E1D3)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend Power
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=A8E6CF)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=88D8B0)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### 🎨 Design Studio
+<div align="center">
+
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=FF9A8B)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-2C5234?style=for-the-badge&logo=coreldraw&logoColor=white&labelColor=A8E6CF)
+![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white&labelColor=FFD93D)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&labelColor=6BCF7F)
+
+</div>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```
+🎨────💻────🚀────✨────🎯────💡────🌟────🎭
+   Creating digital experiences that inspire
+🎨────💻────🚀────✨────🎯────💡────🌟────🎭
+```
+
+</div>
+
+<div align="center">
+
+## 🌟 ✨ Portfolio Highlights ✨ 🌟
+*Digital masterpieces that blend creativity with functionality*
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎨 **Artionary**
+*Mobile Art Dictionary*
+
+```ascii
+   ╭─────────────╮
+   │  📚   🎨   │
+   │    ART      │
+   │  DICTIONARY │
+   ╰─────────────╯
+```
+
+A **mobile art dictionary app** that provides comprehensive definitions, explanations, and visual references for art terms and concepts.
+
+`React Native` • `Mobile Design` • `Education`
+
+</td>
+<td align="center" width="33%">
+
+### 🏠 **RooMates**
+*Hostel Management Platform*
+
+```ascii
+   ╭─────────────╮
+   │  🏠   🤝   │
+   │   HOSTEL    │
+   │  MANAGEMENT │
+   ╰─────────────╯
+```
+
+A **hostel booking and management platform** that streamlines accommodation processes for students and hostel owners.
+
+`Full-Stack` • `Web Development` • `Management`
+
+</td>
+<td align="center" width="33%">
+
+### 🗳️ **Artsoc Evotes**
+*Digital Democracy*
+
+```ascii
+   ╭─────────────╮
+   │  🗳️   ⚡   │
+   │   VOTING    │
+   │   SYSTEM    │
+   ╰─────────────╯
+```
+
+An **online voting system** designed for the Art Society, UEW, enabling secure and efficient democratic processes for student elections.
+
+`Security` • `Web App` • `Democracy`
+
+</td>
+</tr>
+</table>
 
 ## 🎯 Core Competencies
 
@@ -103,18 +267,56 @@ Time Management        ███████████████████
 
 </div>
 
-## 🤝 Let's Connect!
+<div align="center">
 
-I'm always excited to collaborate on projects that combine technology with creativity, especially in the realms of **Art**, **EduTech**, and **Community Development**. Whether you're looking for a creative developer, a design-thinking partner, or someone passionate about making technology accessible through education, let's connect!
+## 🎨 ✨ Let's Create Something Amazing Together! ✨ 🎨
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+```
+🌟 Ready to collaborate? 🌟
+   Art • Tech • Innovation
+```
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+I'm always excited to collaborate on projects that combine **technology with creativity**, especially in the realms of **Art**, **EduTech**, and **Community Development**. 
+
+Whether you're looking for a **creative developer**, a **design-thinking partner**, or someone passionate about making technology accessible through education, let's connect!
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theartgenie)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow_Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kwameamankwa.afrifa)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/colorful_hr.gif" width="100%" height="2px"/>
 
----
+### 🌈 Connect With The Art Genie 🌈
 
-_"Curiosity is the engine of creativity and innovation"_ ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6B6B)](https://www.linkedin.com/in/theartgenie)
+[![Facebook](https://img.shields.io/badge/Facebook-Creative_Journey-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=4ECDC4)](https://www.facebook.com/kwameamankwa.afrifa)
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/colorful_hr.gif" width="100%" height="2px"/>
+
+```ascii
+╭────────────────────────────────────────────────────────────────╮
+│                                                                │
+│  "Curiosity is the engine of creativity and innovation"       │
+│                                                                │
+│           🎨 • 💻 • ✨ • 🚀 • 🌟 • 💡 • 🎭 • 🎯           │
+│                                                                │
+╰────────────────────────────────────────────────────────────────╯
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
 </div>
 <!--
