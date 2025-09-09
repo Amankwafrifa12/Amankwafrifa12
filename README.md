@@ -43,6 +43,7 @@ My passion lies at the intersection of **technology**, **art**, and **education*
 
 ### Design & Creative Tools
 
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-2C5234?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![Filmora](https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -51,11 +52,15 @@ My passion lies at the intersection of **technology**, **art**, and **education*
 
 ### 🎨 Artionary
 
-A revolutionary platform bridging the gap between art and technology.
+An art dictionary platform that provides comprehensive definitions, explanations, and visual references for art terms and concepts.
 
 ### 🏠 RooMates
 
-An innovative solution for connecting compatible roommates.
+A hostel booking and management platform that streamlines accommodation processes for students and travelers.
+
+### 🗳️ Artsoc Evotes
+
+An online voting system designed for the Art Society, UEW, enabling secure and efficient democratic processes for student elections.
 
 ## 🎯 Core Competencies
 
