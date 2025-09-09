@@ -52,7 +52,7 @@ My passion lies at the intersection of **technology**, **art**, and **education*
 
 ### 🎨 Artionary
 
-An art dictionary platform that provides comprehensive definitions, explanations, and visual references for art terms and concepts.
+A mobile art dictionary app that provides comprehensive definitions, explanations, and visual references for art terms and concepts.
 
 ### 🏠 RooMates
 
