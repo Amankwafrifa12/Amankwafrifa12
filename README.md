@@ -14,24 +14,48 @@
 
 </div>
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎭 **Life Wisdom**
+
+_From Iwaju Series_
+
+</td>
+<td align="center" width="50%">
+
+### 🌟 **Core Values**
+
+_Where courage meets creativity_
+
+</td>
+</tr>
+<tr>
+<td>
+
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                             🎭                               ║
-║         "In large rivers one find big fish but one           ║
-║                may also be drown"                            ║
-║                                                               ║
-║                    ~ Iwaju Series ~                          ║
-║                             🌟                               ║
-╚═══════════════════════════════════════════════════════════════╝
+🌊 "In large rivers one find
+   big fish but one may
+   also be drown"
+
+   ~ Iwaju Series ~
 ```
 
-<div align="center">
+</td>
+<td>
 
-_Where wisdom meets artistry, inspiration flows_
+```
+🌊 Courage in Risk-Taking
+🎨 Creative Innovation
+🚀 Bold Exploration
+✨ Continuous Growth
+💡 Wisdom in Action
+```
 
-🌊 **Courage** • 🎨 **Creativity** • 🚀 **Risk-Taking** • ✨ **Growth** 🌊
-
-</div>
+</td>
+</tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/🎨_Creative-Mind-FF6B6B?style=for-the-badge&labelColor=FFE66D" />
