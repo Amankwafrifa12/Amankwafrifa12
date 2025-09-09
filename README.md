@@ -17,13 +17,15 @@
 _From Iwaju Series_
 
 </td>
+<td>
 
 ```
 🌊 "In large rivers one find
    big fish but one may
    also be drown"
 
-   ~ Iwaju Series ~
+~ Iwaju Series ~
+
 ```
 
 </td>
