@@ -8,31 +8,15 @@
 
 <br/>
 
-<div align="center">
-
-### 🌊 ✨ **Philosophy of Life** ✨ 🌊
-
-</div>
-
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
-### 🎭 **Life Wisdom**
+### 🎭 **Favorite Quote**
 
 _From Iwaju Series_
 
 </td>
-<td align="center" width="50%">
-
-### 🌟 **Core Values**
-
-_Where courage meets creativity_
-
-</td>
-</tr>
-<tr>
-<td>
 
 ```
 🌊 "In large rivers one find
@@ -43,17 +27,7 @@ _Where courage meets creativity_
 ```
 
 </td>
-<td>
 
-```
-🌊 Courage in Risk-Taking
-🎨 Creative Innovation
-🚀 Bold Exploration
-✨ Continuous Growth
-💡 Wisdom in Action
-```
-
-</td>
 </tr>
 </table>
 
